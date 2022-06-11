@@ -1,0 +1,16 @@
+Female asian
+Female black
+Female ginger
+Female hispanic
+Female indian
+Female middle eastern
+Female native american
+Female white
+Male asian
+Male black
+Male ginger
+Male hispanic
+Male indian
+Male middle eastern
+Male native american
+Male white
